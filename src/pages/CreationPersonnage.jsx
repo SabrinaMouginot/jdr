@@ -1,6 +1,6 @@
 function CreationPersonnage() {
     return (
-        <div></div>
+        <div>Création du personnage</div>
     );
   }
   

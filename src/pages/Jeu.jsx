@@ -1,6 +1,6 @@
 function Jeu() {
     return (
-        <div></div>
+        <div>Jeu</div>
     );
   }
   
